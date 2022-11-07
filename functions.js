@@ -1,3 +1,6 @@
+//parameter = placeholder used when creating a function
+//arguments = actual values for the placeholder
+
 //1
 
 //Make this into a String
